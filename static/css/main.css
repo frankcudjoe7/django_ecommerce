@@ -1,5 +1,5 @@
-body {
-    background-color: hsl(0, 0%, 98%);
+html, body {
+    background-color:#ececec;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -88,7 +88,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .chg-quantity:hover {
-    opacity: .6s;
+    opacity: .6;
 }
 
 .hidden {
